@@ -2,7 +2,7 @@
 	$.fn.FullScreenSlider = function(options) {
 		var 
 			_bannerCount  = 0,
-			_position 	  = 0,
+			_position     = 0,
 			_bgColours    = [],
 			_direction    = 1,
 			_container    = '',
