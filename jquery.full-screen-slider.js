@@ -33,7 +33,7 @@
 			},
 			
 			setBg = function(){
-				// TODO: Add support if no jQuery UI
+				// TODO: Add support if no jQuery UI 
 				_container.animate( { backgroundColor: _bgColours[_position] }, options.slideSpeed);
 			},
 			
