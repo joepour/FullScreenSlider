@@ -1,7 +1,8 @@
 FullScreenSlider
 ================
 
-A jQuery plugin which spans the full width of the screen and adapt the images background colour.
+A jQuery plugin which spans the full width of the screen and adapt the images background colour. 
+You can see what is looks like in the [demo](http://joepour.com/full-screen-slider/).
 
 Usage
 ================
