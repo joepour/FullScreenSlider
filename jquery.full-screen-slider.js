@@ -89,7 +89,7 @@
 			'position': 'absolute'
 		});
 		$('.banner').css({'float': 'left', 'width': _bannerWidth})
-		$('.banner img').css({'width': _bannerWidth, 'height': _bannerHeight});
+		$('.banner img').css({'width': _bannerWidth, 'height': _bannerHeight, 'position': 'relative'});
 		
 		//
 		//
